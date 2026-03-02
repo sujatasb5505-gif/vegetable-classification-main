@@ -18,26 +18,6 @@ GreenClassify is an AI-powered web application designed to automatically identif
 ### Prediction Result
 ![Prediction](./screenshots/result.png)
 
-## 🚀 How to Run Locally
-
-1. **Clone the repository:**
-       ```bash
-       git clone [https://github.com/bhagwatankita/vegetable-classification.git](https://github.com/bhagwatankita/vegetable-classification.git)
-       cd vegetable-classification
-
-2. **Install dependencies:**
-
-    Bash
-    pip install -r requirements.txt
-
-3. **Run the Flask application:**
-
-    Bash
-    python train_model.py
-    (Note: Ensure your model file vegetable_model.h5 is in the root directory)
-
-4. **Access in Browser:**
-    Go to http://127.0.0.1:5000/
 
 
 📂 Project Structure
